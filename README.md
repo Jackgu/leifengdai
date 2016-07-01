@@ -12,3 +12,7 @@
 ppdai_api.php 基类代码，供include
 
 excel.php 输出Table,可以Excel连接
+
+autobidAll.php 按一些策略自己投标
+
+DB:
