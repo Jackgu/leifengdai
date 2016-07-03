@@ -18,3 +18,8 @@ excel.php 输出Table,可以Excel连接
 autobidAll.php 按一些策略自己投标
 
 DB.sql MySQL表
+
+
+importcsv.php  将ppdai提供下载的CSV文件导入数据库
+
+csvAnalysis.php	对于导入的CSV数据进行分析统计
