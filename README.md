@@ -11,8 +11,10 @@
 
 ppdai_api.php 基类代码，供include
 
+oAuth.php 调用oAuth获得Token\OpenId, 调用ppdai_api.php中函数，实现查询余额、获得投标中列表、债务转移列表等功能
+
 excel.php 输出Table,可以Excel连接
 
 autobidAll.php 按一些策略自己投标
 
-DB:
+DB.sql MySQL表
