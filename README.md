@@ -19,6 +19,9 @@ autobidAll.php 按一些策略自己投标
 
 DB.sql MySQL表
 
+-----------
+
+以下不需要调用openAPI，基于对于ppdai提供数据的分析
 
 importcsv.php  将ppdai提供下载的CSV文件导入数据库
 
